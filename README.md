@@ -1,2 +1,2 @@
 # ios-font-database
-All ios fonts available for download
+All ios system fonts available for download
